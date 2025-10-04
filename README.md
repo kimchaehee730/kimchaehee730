@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1>반갑습니다, 김채희입니다!</h1>
+<p>
+    저는 영남대학교 정보통신공학에 재학 중입니다. 저의 진로를 찾기위해 꾸준히 노력하고 있습니다.
+</p>
 
-<!--
-**kimchaehee730/kimchaehee730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>간단한 소개</h2>
+<p>
+    이름 : 김채희
+    생년월일 : 2004.07.30
+    메일 : cogml929@naver.com
+</p>
